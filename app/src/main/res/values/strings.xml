@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">Ku App PLay</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="mode_switch">Chế Độ</string>
+    <!--侧滑菜单-->
+    <string name="all_notes">Tất Cả note</string>
+    <string name="recent_edit">Đã chỉnh sửa gần đây</string>
+    <string name="waste_basket">Thùng Rác</string>
+    <string name="settings">Cài Đặt</string>
+    <string name="share_app">Chia sẻ</string>
+    <!--fab menu-->
+    <string name="fab_item_camera">Camera</string>
+    <string name="fab_item_attachment">Ok</string>
+    <string name="fab_item_voice_shorthand">Ghi Âm</string>
+    <string name="fab_item_freehand">Chữ viết</string>
+    <string name="fab_item_text">Ghi chú đồ họa</string>
+    <!-- note detail-->
+    <string name="hint_input_title">Nhập tiêu đề</string>
+    <string name="hint_input_content">Nhập nội dung ghi chú</string>
+    <!--toolbar menu detail-->
+    <string name="attachment">Vẽ</string>
+    <string name="camera">Camera</string>
+    <string name="send">Gửi</string>
+    <string name="remove">Xóa</string>
+    <string name="purchase_vip_tip">Chức năng đnag được nâng cấp ở các bản cập nhật tiếp theo.</string>
+    <!--toolbar menu common-->
+    <string name="search">Tìm kiếm</string>
+    <string name="sort">Phân loại</string>
+    <!--toolbar menu sort-->
+    <string name="sort_by_ascending">Xếp tăng dần</string>
+    <string name="sort_by_descending">Xếp giảm dần</string>
+    <!--附件弹出菜单-->
+    <string name="attachment_pop_menu_album">Hình Chụp</string>
+    <string name="attachment_pop_menu_record">Nhận diện giong nói</string>
+    <string name="attachment_pop_menu_freehand">Vẽ tay</string>
+
+    <!--主界面长按弹出菜单-->
+    <string name="rename">Đổi tên</string>
+    <string name="encrypt">password</string>
+    <!--废纸篓长按弹出菜单-->
+    <string name="recovery">Phục hồi</string>
+    <string name="delete">xóa</string>
+
+    <string name="popup_window_cancel">Hủy</string>
+    <string name="popup_window_sure">Đồng ý</string>
+
+    <string name="title_freehand">Viết tay</string>
+    <string name="alert">Cảnh báo</string>
+    <string name="clear_freehand_tip">Bạn có chắc chắn muốn xóa tất cả hồ sơ không? Thao tác này không thể phục hồi sau khi thực hiện !</string>
+    <string name="is_save_note">Bạn có muốn sao lưu ghi chú không ?</string>
+
+    <string name="preference_app">Ứng dụng</string>
+    <!--主题设置-->
+    <string name="preference_theme">Chủ đề</string>
+    <string name="summary_preference_theme">Chọn chủ đề</string>
+    <string name="preference_theme_entry_night">Chế độ ban đêm</string>
+    <string name="preference_theme_entry_default">Mặc Định</string>
+    <!--语言设置-->
+    <string name="preference_lang">Ngôn Ngữ</string>
+    <string name="summary_preference_lang">cài đặt ngôn ngữ</string>
+    <string name="preference_lang_entry_chinese">Tiếng Việt</string>
+    <string name="preference_lang_entry_english">Tiếng Anh</string>
+    <!--自动更新-->
+    <string name="auto_check_update">
+Tự động phát hiện các bản cập nhật</string>
+    <string name="summary_auto_check_update">Tự động phát hiện xem có phiên bản mới hay không khi ứng dụng khởi động</string>
+    <string name="preference_key_auto_check_update">preference_key_auto_check_update</string>
+    <string name="prompt_close_auto_update">
+Nếu cần cập nhật sau khi đóng, bạn có thể vào trang Giới thiệu để kiểm tra cập nhật theo cách thủ công.</string>
+    <!--手势密码-->
+    <string name="gesture_password">Mật khẩu cử chỉ</string>
+    <string name="set_gesture_password">Bật mật khẩu cử chỉ để bảo vệ quyền riêng tư</string>
+    <!--其他-->
+    <string name="preference_other">Khác</string>
+    <string name="title_preference_about">Back</string>
+    <string name="summary_preference_about">Phiên bản hiện tại, kiểm tra các bản cập nhật, v.v.</string>
+    <string name="preference_recommend">
+Ghi chú được đề xuất</string>
+    <string name="summary_preference_recommend">Ku app</string>
+    <string name="title_preference_purchase">Tính năng đang nâng cấp</string>
+    <string name="summary_preference_purchase">Ku app</string>
+    <string name="summary_preference_high_praise">
+Nếu bạn thích nó, hãy vào cửa hàng ứng dụng và đánh giá tốt</string>
+    <string name="title_preference_high_praise">Đánh giá</string>
+
+    <!--设置key与value-->
+    <string name="preference_key_theme">preference_key_theme</string>
+    <string name="theme_value_default">theme_default</string>
+    <string name="theme_value_night">theme_night</string>
+
+    <string name="preference_key_lang">preference_key_lang</string>
+    <string name="lang_value_default">lang_default</string>
+    <string name="lang_value_chinese">lang_chinese</string>
+    <string name="lang_value_english">lang_english</string>
+
+    <string name="preference_key_gesture_pwd">preference_key_gesture_pwd</string>
+    <string name="nick_default_tip">Chào mừng đến với ứng dụng</string>
+    <string name="preference_key_about">preference_key_about</string>
+    <string name="preference_key_recommend">preference_key_recommend</string>
+    <string name="preference_key_donate">preference_key_donate</string>
+    <string name="preference_key_high_praise">preference_key_favorable_reception</string>
+
+    <!--启动页-->
+    <string name="app_author">Ku App</string>
+    <string name="app_slogan">NoteApp</string>
+
+    <!--手势密码解锁页面-->
+    <string name="gesture_lock_forget_pwd">
+quên mật khẩu</string>
+    <string name="gesture_create_default">Vẽ các mẫu cử chỉ</string>
+    <string name="gesture_create_correct">
+Vẽ lại hình mở khóa</string>
+    <string name="gesture_create_less_error">Vẽ ít nhất 4 điểm, vui lòng nhập lại</string>
+    <string name="gesture_create_confirm_error">Mật khẩu không đúng</string>
+    <string name="gesture_create_confirm_correct">Thiết lập thành công</string>
+    <string name="draw_gesture_pwd_incorrect">Mật khẩu không đúng</string>
+
+    <!--搜索页面-->
+    <string name="title_search">Tìm Kiếm</string>
+    <string name="search_no_data">
+Không tìm thấy nội dung nào, hãy thử thay đổi từ khóa!</string>
+    <string name="scene_transition_search">scene_transition_search</string>
+
+    <!--语音速记页面-->
+    <string name="please_speak">
+Nhấp vào nút thoại ở phía dưới và nói để tự động nhận dạng..</string>
+    <string name="recognize_failed">
+Nhận dạng giọng nói không thành công</string>
+    <string name="voice_recognize_no_speech">Công cụ phát hiện giọng nói đã phát hiện ra rằng nó đã không nói trong một thời gian dài và đã tự động tắt.</string>
+    <string name="is_use_voice_auto_recognize_result">
+Bạn có chắc chắn muốn sử dụng kết quả nhận dạng giọng nói tự động không? Sau khi chọn ‘OK’, bạn vẫn có thể tự chỉnh sửa ở trang chi tiết</string>
+
+    <!--关于页面-->
+    <string name="check_update">Kiểm tra cập nhật</string>
+    <string name="about">Back</string>
+    <string name="check_update_no_new_version">Phiên bản mới nhất !</string>
+    <!--购买页面-->
+    <string name="purchase_payment">Bản mới đăng được nâng cấp ở các bản tiếp theo.</string>
+    <string name="purchase">Tính năng mới</string>
+
+    <!--分享-->
+    <string name="share_app_title">Share</string>
+    <string name="share_app_content">Share ứng dụng</string>
+    <!--权限-->
+    <string name="permission_tip">
+Bạn được yêu cầu cấp quyền ghi âm và quyền đọc trạng thái điện thoại để sử dụng chức năng tốc ký giọng nói cũng như quyền đọc và ghi tệp để lưu trữ các ghi chú bạn tạo.</string>
+    <string name="need_read_storage_permission">Bạn cần cấp quyền đọc bộ nhớ ngoài để truy cập ảnh album của mình không ?</string>
+
+
+</resources>
